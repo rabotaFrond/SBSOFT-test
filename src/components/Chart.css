@@ -1,0 +1,17 @@
+.chart-container .toggle-button {
+  margin-left: 20px;
+}
+.chart-container .toggle-button-contained {
+  margin-left: 55px;
+}
+
+.category-select {
+  width: min-content;
+  margin-left: 55px;
+  display: inline-block;
+  padding: 0px;
+}
+
+.header {
+  margin-left: 55px;
+}
