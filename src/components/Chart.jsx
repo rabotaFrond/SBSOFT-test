@@ -16,7 +16,7 @@ import {
   Legend,
   Filler,
 } from "chart.js";
-import "../components/chart.css";
+import "/src/components/chart.css";
 
 // Инициализация Chart.js
 ChartJS.register(
